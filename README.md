@@ -26,7 +26,10 @@ I implemented the solution in GO with the help of the Cobra library. Popular CLI
 
 
 # Installation
-> go get <repo.url>/greetctl
+```
+go run main.go
+go install greetctl
+```
 
 # Play with greetctl
 > $ greetctl create card -h
