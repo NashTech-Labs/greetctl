@@ -1,5 +1,5 @@
 # Creating kubectl like CLI With GO And Cobra.
-We are using CLI tools for ages. You might be familiar with the CLI tools like git, docker, kubectl, awscli, etc. Here I have created a fictional CLI named greetctl. This tool is implemented in golang with the help of the cobra library.
+We are using CLI tools for ages. You might be familiar with the CLI tools like git, docker, kubectl, awscli, etc. Here I have created a fictional CLI named greetctl. This tool is implemented in golang with the help of the cobra library. For more details please visit [this blog](https://blog.knoldus.com/create-kubectl-like-cli-with-go-and-cobra/).
 
 In Kubernetes, almost all the APIs can be accessed using kubectl. It is an amazing tool. Following is the syntax of kubectl.
 
